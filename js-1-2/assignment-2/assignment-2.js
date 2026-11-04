@@ -1,4 +1,2 @@
-const name= prompt("name pls")
-
+const name = prompt("Type your name please!!!")
 document.querySelector("#target").innerHTML = "Hello, " + name + "!";
-document.querySelector("#target").innerHTML = `Hello, {name}!`;
