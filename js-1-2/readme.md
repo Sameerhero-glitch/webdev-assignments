@@ -11,4 +11,4 @@
 - The program displays "Hello, "Name!" " on the webpage.
 
 ## Assignment 3 - Sum, Product and average
-- The program asks for 3 numbers through pop up and genertes the sum, product and average on the webpage.
+- The program asks for 3 numbers through pop up and generates the sum, product and average of the numbers on the webpage.
