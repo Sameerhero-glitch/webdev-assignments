@@ -38,6 +38,49 @@
 - Used console.log() to print the numbers.
 
 
+## Assignment 6 – Roll until six
+- Created a function without parameters to return a random dice roll.
+- Used Math.random() to generate a number between 1 and 6.
+- Used a do-while loop to roll the dice until getting 6.
+- Used createElement() and appendChild() to display each roll in an unordered list.
+
+
+## Assignment 7 – A die with any number of sides
+- Created a dice rolling function with the number of sides as a parameter.
+- Used prompt() to ask the user for the number of dice sides.
+- Used a do-while loop to roll until the maximum number is reached.
+- Used createElement() and appendChild() to display each roll in an unordered list.
+
+
+## Assignment 8 – Join strings without join()
+- Created a concat() function that receives an array of strings.
+- Used a for-loop to concatenate the array elements into one string.
+- Used return to return the combined string.
+- Used textContent to display the result in the HTML document.
+
+
+## Assignment 9 – Even numbers into a new array
+- Created an even() function that receives an array of numbers.
+- Used a for-loop and if statement to find even numbers.
+- Created a new array to store the even numbers without changing the original array.
+- Used return to return the new array.
+- Used console.log() to print both arrays.
+
+
+## Assignment 10 – Voting
+- Used prompt() to ask for candidates and voters.
+- Used objects to store candidate names and vote counts.
+- Used a for-loop to collect votes.
+- Used find() to identify candidates and count their votes.
+- Used sort() to arrange candidates by vote count.
+- Used console.log() to display the winner and voting results.
+
+
+
+
+
+
+
 
 
 
